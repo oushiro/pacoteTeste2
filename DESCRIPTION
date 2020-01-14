@@ -1,0 +1,12 @@
+Package: pacoteTeste2
+Type: Package
+Title: Test package for creating R packages.
+Version: 0.1.0
+Author: Livia Oushiro
+Maintainer: Livia Oushiro <oushiro@unicamp.br>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+    Este é meu input. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
