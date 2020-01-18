@@ -1,7 +1,7 @@
 Package: pacoteTeste2
 Type: Package
 Title: Test package for creating R packages.
-Version: 0.1.0
+Version: 0.1.1
 Author: Livia Oushiro
 Maintainer: Livia Oushiro <oushiro@unicamp.br>
 Description: More about what it does (maybe more than one line)

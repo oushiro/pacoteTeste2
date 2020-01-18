@@ -6,3 +6,7 @@ funcao1 <- function(x){
 funcao2 <- function(x){
   x * 10
 }
+
+funcao3 <- function(x){
+  x - 10
+}

@@ -1,14 +1,14 @@
-\name{funcao1}
-\alias{funcao1}
+\name{funcao3}
+\alias{funcao3}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{Função para somar 10.
+\title{Função para subtrair 10.
 %%  ~~function to do ... ~~
 }
-\description{Esta função soma 10 ao valor colocado como argumento.
+\description{Esta função subtrai 10 do valor colocado como argumento.
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
-funcao1(x)
+funcao3(x)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -16,7 +16,7 @@ funcao1(x)
 %%     ~~Describe \code{x} here~~
 }
 }
-\details{ononon
+\details{nonon
 %%  ~~ If necessary, more details than the description above ~~
 }
 \value{nonono
@@ -26,13 +26,13 @@ funcao1(x)
 %%  \item{comp2 }{Description of 'comp2'}
 %% ...
 }
-\references{nonono
+\references{nonon
 %% ~put references to the literature/web site here ~
 }
 \author{Livia Oushiro
 %%  ~~who you are~~
 }
-\note{nonono
+\note{nononon
 %%  ~~further notes~~
 }
 
@@ -42,10 +42,11 @@ funcao1(x)
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
-funcao1(10)
+funcao3(10)
 
 a.vector <- c(10, 20)
-funcao1(a.vector)
+funcao3(a.vector)
+
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
